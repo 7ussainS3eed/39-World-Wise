@@ -1,6 +1,6 @@
 Walkthrough Video...<br>https://drive.google.com/file/d/1k6EWRmJqpgeQSrwFDBYPqKW5z7mY3Dg_/view?usp=drive_link
 <br><br>
-Live Demo (Not fully responsive, best on PC)...<br>https://7ussains3eed.github.io/39-World-Wise/
+Live Demo...<br>https://7ussains3eed.github.io/39-World-Wise/
 
 # React + Vite
 
