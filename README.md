@@ -2,7 +2,7 @@ Walkthrough Video...<br>https://drive.google.com/file/d/1k6EWRmJqpgeQSrwFDBYPqKW
 <br><br>
 Live Demo...<br>https://7ussains3eed.github.io/39-World-Wise/
 <br><br>
-LinkedIn Post<br>https://www.linkedin.com/feed/update/urn:li:activity:7367726898019233793/
+LinkedIn Post...<br>https://www.linkedin.com/feed/update/urn:li:activity:7367726898019233793/
 
 # React + Vite
 
